@@ -16,6 +16,8 @@
 ### const cars = ["Saab", "Volvo", "BMW"];
 ### cars = ["Toyota", "Volvo", "Audi"];    // ERROR
 
+&nbsp;
+
 <a href="https://github.com/user-attachments/assets/7d32a3bf-6a44-42db-877f-484cf3d47eb4" >
   <img width="100%" alt="não-pode-reatribuir-o-array" src="https://github.com/user-attachments/assets/7d32a3bf-6a44-42db-877f-484cf3d47eb4"/>
 </a>
