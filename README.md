@@ -1,7 +1,7 @@
-### HTML JavaScript | JavaScript const Objetos e Matrizes Constantes Nesse exemplo vocë não pode reatribuir o array
+### HTML JavaScript | JavaScript const Objetos e Matrizes Constantes Nesse exemplo você não pode reatribuir o array
 
-<a href="https://github.com/user-attachments/assets/92519d6a-46b3-4790-a9b5-959d875b01ed">
-  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/92519d6a-46b3-4790-a9b5-959d875b01ed"/>
+<a href="https://github.com/user-attachments/assets/0909b9eb-e385-4198-b75c-bfab1dd832ff">
+  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/0909b9eb-e385-4198-b75c-bfab1dd832ff"/>
 </a>
 
 &nbsp;
