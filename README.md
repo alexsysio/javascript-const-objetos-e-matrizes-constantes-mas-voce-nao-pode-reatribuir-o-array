@@ -1,4 +1,4 @@
-### HTML JavaScript | JavaScript const Objetos e Matrizes Constantes Nesse exemplo você não pode reatribuir o array
+### Nesse exemplo você não pode reatribuir o array com a palavra chave const
 
 <a href="https://github.com/user-attachments/assets/0909b9eb-e385-4198-b75c-bfab1dd832ff">
   <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/0909b9eb-e385-4198-b75c-bfab1dd832ff"/>
