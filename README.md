@@ -1,5 +1,5 @@
 ### Objetos e Matrizes Constantes
-### A palavra-chave é um pouco enganosa. const
+### A palavra-chave const é um pouco enganosa. 
 ### Mas você NÃO pode reatribuir o array:
 
 &nbsp;
@@ -7,6 +7,8 @@
 ### Exemplo
 ### const cars = ["Saab", "Volvo", "BMW"];
 ### cars = ["Toyota", "Volvo", "Audi"];    // ERROR
+
+&nbsp;
 
 <a href="https://github.com/user-attachments/assets/0909b9eb-e385-4198-b75c-bfab1dd832ff">
   <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/0909b9eb-e385-4198-b75c-bfab1dd832ff"/>
